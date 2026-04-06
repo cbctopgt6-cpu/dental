@@ -1,0 +1,5 @@
+{
+  "name": "Dental CBCT & OPG Center Manager",
+  "description": "Comprehensive management system for Dental CBCT & OPG Centers, featuring patient records, DICOM viewing, and staff attendance tracking.",
+  "requestFramePermissions": []
+}
